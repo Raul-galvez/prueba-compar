@@ -1,0 +1,6 @@
+package com.example.prueba.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val Verde = Color(0xFF66CC66)
+val Rojo = Color(0xFFD9534F)
